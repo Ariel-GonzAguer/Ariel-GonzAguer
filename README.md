@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diosDeNada
-- 👀 I’m interested in ... cooking, my wife, beer.
+- 👀
 - 🌱 I’m currently learning ... Front End Engineer.
 - 💞️ I’m looking to collaborate on ...nice people.
 - 📫 How to reach me ... ariegonzaguer@gmail.com
