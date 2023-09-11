@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @diosDeNada
-- 👀
-- 🌱 I’m currently learning ... Front End Engineer.
-- 💞️ I’m looking to collaborate on ...nice people.
+- 👋 Hi, I’m Arie.
+- 👀 I’m looking to collaborate with ...nice people.
+- 🌱 I’m currently learning ... Front End Engineer. 
 - 📫 How to reach me ... ariegonzaguer@gmail.com
 
 <!---
