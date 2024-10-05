@@ -1,7 +1,8 @@
-const Arie = {
+const Ariel = {
 location:'San José, Costa Rica',
 age: 31,
-occupation: [ 'Brewer', 'Web Developer Student' ],
+occupation: 'Brewer',
+studying: 'Front End Web Development',
 favoriteLanguage:'JavaScript'
 }
 
