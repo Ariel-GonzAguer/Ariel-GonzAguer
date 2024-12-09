@@ -2,7 +2,8 @@ const Ariel = {
 location:'San José, Costa Rica',
 age: 31,
 occupation: 'Brewer',
-studying: 'Front End Web Development',
+certified: 'Front End Web Development'
+studying: 'TypeScript',
 favoriteLanguage:'JavaScript'
 }
 
