@@ -2,12 +2,12 @@ const Ariel = {
 location:'San José, Costa Rica',
 age: 31,
 occupation: 'Brewer',
-certified: 'Front End Web Development'
-studying: 'TypeScript',
-favoriteLanguage:'JavaScript'
+certified: 'Front End Web Engineer'
+studying: 'Express',
+favoriteLanguage:'TypeScript'
 }
 
-I am a Web Developer who likes to write clean and simple code. I like to focus on accessibility and making products easy to use. 
+I am a Front End Web Engineer who likes to write clean and simple code. I like to focus on accessibility and making products easy to use. 
 
 I'm also a Professional Brewer with more than 7 years of experience, in case you want some beer too 
 <!---
