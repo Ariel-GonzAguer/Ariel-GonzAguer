@@ -1,6 +1,6 @@
 const Ariel = {
 
-  location:'San José, Costa Rica',
+  location:'Costa Rica',
 
   age: 32,
 
@@ -8,7 +8,7 @@ const Ariel = {
 
   certified: 'Front End Web Engineer'
 
-  studying: 'UX/UI Design',
+  studying: 'UX Design',
 
   favoriteLanguage:'TypeScript'
   
@@ -16,4 +16,4 @@ const Ariel = {
 
 I am a Front End Web Engineer who likes to write clean and simple code. I like to focus on accessibility and making products easy to use. 
 
-I'm also a Professional Brewer with more than 7 years of experience, in case you want some beer too 
+I'm also a Professional Brewer with more than 7 years of experience, in case you want some beer too.
