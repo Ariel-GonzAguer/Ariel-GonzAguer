@@ -1,19 +1,15 @@
-const Ariel = {
+const Ariel: Record<string, string | number> = {
 
-  location:'Costa Rica',
+  ubicación:'Costa Rica',
 
-  age: 32,
+  edad: 32,
 
-  occupation: 'Brewer',
+  ocupación: 'Brewer',
 
-  certified: 'Front End Web Engineer'
+  certificadoEn: 'Front End Engineer'
 
-  studying: 'UX Design',
+  estudiando: 'UX Design',
 
-  favoriteLanguage:'TypeScript'
+  lenguajeFavorito:'TypeScript'
   
 }
-
-I am a Front End Web Engineer who likes to write clean and simple code. I like to focus on accessibility and making products easy to use. 
-
-I'm also a Professional Brewer with more than 7 years of experience, in case you want some beer too.
