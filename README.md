@@ -6,7 +6,7 @@ const Ariel: Record<string, string | number> = {
 
   ocupación: 'Brewer',
 
-  certificadoEn: [ 'Front End Engineer'. 'UX Design' ]
+  certificadoEn: [ 'Front End Engineer', 'UX Design' ]
 
   lenguajeFavorito:'TypeScript'
   
