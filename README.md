@@ -1,4 +1,4 @@
-const Ariel: Record<string, string | number> = {
+const Ariel: Record<string, string | number | string[]> = {
 
   ubicación:'Costa Rica',
 
