@@ -6,8 +6,12 @@ const Ariel: Record<string, string | number | string[]> = {
 
   ocupación: 'Brewer',
 
-  certificadoEn: [ 'Front End Engineer', 'UX Design' ]
+  certificadoEn: [ 'FrontEnd Engineer', 'UX Design' ]
 
-  lenguajeFavorito:'TypeScript'
+  lenguajeFavorito:'TypeScript',
+
+  frameworkFavorito: 'Waku',
+
+  modelosFavoritos: ['Mimo v2.5Pro','Deepseek V4 Pro','Kimi k2.7']
   
 }
