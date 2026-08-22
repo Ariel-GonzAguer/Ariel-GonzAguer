@@ -6,7 +6,8 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Waku](https://img.shields.io/badge/-Waku-eaeaea?logo=waku&logoColor=black)](https://waku.gg/)
+[![Waku](https://img.shields.io/badge/-Waku-000000?labelColor=000000&textColor=eaeaea)](https://waku.gg/)
+
 
 </div>
 
