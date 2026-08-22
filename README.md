@@ -31,8 +31,10 @@ Fundador de [Gato Rojo Lab](https://gatorojolab.com/).
 ## Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariel-GonzAguer&show_icons=true&hide_border=true&theme=transparent" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-GonzAguer&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ariel-GonzAguer&theme=transparent" alt="Lenguajes por repositorio" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ariel-GonzAguer&theme=transparent" alt="Lenguajes por commits" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariel-GonzAguer&theme=transparent" alt="Estadísticas" height="160" />
+
 </div>
 
 ## Contacto
