@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ariel](https://capsule-render.vercel.app/api?type=soft&height=120&color=F43F5E&text=Ariel&fontSize=48&fontColor=eaeaea&desc=Front-End%20Dev%20·%20JAMStack&descSize=16&descAlignY=72)
+![Ariel GonzAgüer](https://capsule-render.vercel.app/api?type=soft&height=120&color=F43F5E&text=Ariel&fontSize=48&fontColor=eaeaea&desc=Front-End%20Dev%20·%20JAMStack&descSize=16&descAlignY=72)
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
